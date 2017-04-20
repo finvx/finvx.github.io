@@ -2,7 +2,7 @@ title: Financial Virtual Experiment
 email: 
 description: 資産運用ブログ
 baseurl: ""
-permalink: /:title/
+permalink: /:year/:month/:day/:title/
 url: "http://finvx.com"
 twitter_username: finvx
 github_username:  finvx
