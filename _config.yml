@@ -1,6 +1,6 @@
 title: Financial Virtual Experiment
-email: admin@finvx.com
-description: 
+email: 
+description: 資産運用ブログ
 baseurl: ""
 url: "http://finvx.com"
 twitter_username: finvx
@@ -14,3 +14,8 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+disqus:
+  shortname: finvx
+
+google_analytics: UA-75214419-1
