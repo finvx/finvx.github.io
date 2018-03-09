@@ -6,7 +6,7 @@ title: "Align Technology は優良な小型成長株か"
 
 先日、ある人から「The Motley Fool Investment Guide」という本を強く勧められたので、最近Kindle版を買って読んでいます。この本では小型成長株を見つけて長期投資するためのノウハウが解説されています。その中で、優良な小型成長株を見分けるための8つのチェックポイントというのが紹介されていて、ほほうと思ったので実際の銘柄で試してみることにしました。
 
-今回は歯科矯正器具を開発している [Align Technology](http://www.aligntech.com/) (NASDAQ:ALGN)を8つのポイントで判定してみました。社名の "align" から分かる通り完全に矯正に特化してる会社ですね。日本語だったら "株式会社矯正技術" でしょうか。
+今回は "Invisalign"(インビザライン) という歯科矯正器具を開発している [Align Technology](http://www.aligntech.com/) (NASDAQ:ALGN)を8つのポイントで判定してみました。社名の "align" から分かる通り完全に矯正に特化してる会社ですね。日本語だったら "株式会社矯正技術" でしょうか。
 
 ※文中の決算情報のテーブルは [2017年の10K](https://www.sec.gov/Archives/edgar/data/1097149/000109714918000010/algn-20171231x10k.htm) から引用し、株価やチャートは [Google Finance](https://www.google.co.jp/search?q=NASDAQ:ALGN) と [Yahoo Finance](https://finance.yahoo.com/quote/ALGN) から引用しました。
 
