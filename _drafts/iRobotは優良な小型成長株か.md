@@ -1,0 +1,74 @@
+---
+layout: post
+title: "iRobot は優良な小型成長株か"
+---
+ロボット掃除機「ルンバ」(Roomba)が有名なiRobot社について、「The Motley Fool Investment Guide」で紹介されている8つのポイントで、優良な小型成長株かどうかチェックしてみました。
+
+
+{% include amazon-motley-fool.html %}
+
+※文中の決算情報のテーブルは [SECの10K](https://www.sec.gov/Archives/edgar/data/815094/000156459017011690/abmd-10k_20170331.htm) から引用し、株価やチャートは [Google Finance](https://www.google.co.jp/search?q=NASDAQ:ABMD) と [Yahoo Finance](https://finance.yahoo.com/quote/ABMD) から引用しました。
+
+### 1. 売上高が $500M 以下 - OK
+
+*"The Company's Sales: $500 Million or Less"*
+
+2016年4月1日〜2017年3月31日の年間売上は $445M でしたが、恐らく今期は $500M を越えているでしょう。
+
+![売上高](/assets/img/ABMD-revenue.png)
+
+### 2. 平均の売買代金が $1M ～ $25M - NG
+
+*"Average Daily Dollar Volume: From $1 Million to $25 Million"*
+
+平均の出来高と直近の株価を掛けると 1,170,685 x $294.52 = $344,790,146 ($345M) です。
+![出来高](/assets/img/ABMD-volume.png)
+
+### 3. 株価が $7 以上 - OK
+
+*"Minimum Share Price of $7"*
+
+直近の株価は $294.52 です。  
+![株価](/assets/img/ABMD-price.png)
+
+### 4. 純利益率が 7% 以上 - OK
+
+*"Net Profit Margin: At Least 7 Percent"*
+
+2017年は 11.7% でした。2015年の Income Tax が利益になっている点は後で調べてみたいと思います。
+
+![純利益率](/assets/img/ABMD-margin.png)
+
+### 5. 売上と利益の成長率が 25% 以上 - OK
+
+*"Earnings and Sales Growth: 25 Percent or Greater"*
+
+売上と純利益ともに成長率が 35% 以上でいいですね！
+
+![成長率](/assets/img/ABMD-growth-rate.png)
+
+### 6. 内部者による株式の保有割合が 10% 以上 - NG
+
+*"Insider Holdings: 10 Percent or More"*  
+
+たったの 2.5% です。
+
+![所有者](/assets/img/ABMD-holders.png)
+
+### 7. 営業キャッシュフローがプラス - OK
+
+*"Cash Flow from Operations: A Positive Number"*
+
+営業キャッシュフローはプラスなのでいいのですが、何故かこのテーブルに "in thousands" という注釈が見当たらないんですよね。
+
+![キャッシュフロー](/assets/img/ABMD-cashflow.png)
+
+### 8. 株価が力強く上昇中 - OK
+
+*"Relative Strength - Strong Price Appreciation"*
+
+いい感じで上昇中です。
+
+![チャート](/assets/img/ABMD-chart.png)
+
+全部で8つのチェックポイントのうち、6つもクリアしました。
